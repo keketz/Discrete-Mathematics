@@ -5,8 +5,11 @@ The Programming Assignment
 Create a program that generates the truth table for the following expressions:
  
  1. (a+(a*(b+b)))*b
+ 
  2.(a+b*c)+a*(b+c)
+ 
  3. (a+b)*(a*c+a*c)+a*b+b
+ 
  4.(a*b*c*d)+(a*b*c*d)+(a*b*c*d)+(a*b*c*d)+(a*b*c*d)+(a*b*c*d)+(a*b*d) 
  
 completing this assignment, be sure to do the following:
